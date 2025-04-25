@@ -1,0 +1,8 @@
+2025-Apr-23-18-41-41 : Preliminaries complete. Initiating ETL process
+2025-Apr-23-18-41-44 : Data extraction complete. Initiating Transformation process
+2025-Apr-23-18-41-44 : Data transformation complete. Initiating Loading process
+2025-Apr-23-18-41-44 : Data saved to CSV file
+2025-Apr-23-18-41-44 : SQL Connection initiated
+2025-Apr-23-18-41-45 : Data loaded to Database as a table, Executing queries
+2025-Apr-23-18-41-45 : Process complete
+2025-Apr-23-18-41-45 : Server Connection closed
